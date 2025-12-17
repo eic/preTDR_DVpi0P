@@ -13,6 +13,7 @@ To generate the DVpi0P figure, run the following commands:
 ```bash
 cd scripts
 root -l plots_DVpi0P.C
+```
 
 The generated figure will be saved in the `results/` directory.
 
